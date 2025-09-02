@@ -5,7 +5,7 @@ public class Star {
                 System.out.print(" * ");
 
             }
-            System.out.println(); // move to next line after printing stars
+            System.out.println();
         }
     }
 }
